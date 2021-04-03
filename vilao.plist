@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>teiron@25pp.com</string>
+	<key>artistId</key>
+	<integer>687237009</integer>
+	<key>artistName</key>
+	<string>Guangming Li</string>
+	<key>bundleDisplayName</key>
+	<string>Shadowrocket</string>
+	<key>bundleShortVersionString</key>
+	<string>2.1.10</string>
+	<key>bundleVersion</key>
+	<string>501</string>
+	<key>copyright</key>
+	<string>© 2014 Li Guangming</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>工具</string>
+	<key>genreId</key>
+	<integer>6002</integer>
+	<key>itemId</key>
+	<integer>932747118</integer>
+	<key>itemName</key>
+	<string>Shadowrocket</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>Guangming Li</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2017-05-08T01:49:13Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Advisory.NO.GAMBLING_CONTESTS and 无限制网页访问</string>
+		<key>label</key>
+		<string>17+</string>
+		<key>rank</key>
+		<integer>600</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2015-04-14T02:09:18Z</string>
+	<key>s</key>
+	<integer>143465</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1272.phobos.apple.com/us/r30/Purple127/v4/83/f0/ad/83f0adc1-6b93-03b7-abfb-6b45c656a97a/CRV_AP_150x90.lsr</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>9</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.liguangming.Shadowrocket</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>822630889</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>820180977</integer>
+		<integer>820248912</integer>
+		<integer>820468829</integer>
+		<integer>820855989</integer>
+		<integer>821375861</integer>
+		<integer>821578460</integer>
+		<integer>821894281</integer>
+		<integer>822306942</integer>
+		<integer>822359375</integer>
+		<integer>822462529</integer>
+		<integer>822630889</integer>
+	</array>
+	<key>vendorId</key>
+	<integer>2214883</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+	<key>accountHash</key>
+	<string>e488a631f10ab16f12fcfa0a27aa717a</string>
+	<key>sourceHash</key>
+	<string>50a73d641cdc4285d34f970f900b52c3</string>
+	<key>srcipaHash</key>
+	<string>05241f0313123cb3c1bed07f14819538</string>
+</dict>
+</plist> 
